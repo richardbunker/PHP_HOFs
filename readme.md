@@ -1,7 +1,7 @@
 # PHP Higher Order Funcitons
 
 # Purpose
-This repository is my attempt to deepen my understanding of the implementation behind one of Laravel's most powerful features: Collections.
+This repository is my attempt to deepen my understanding of PHP higher order functions and the implementation behind one of Laravel's most powerful features: Collections.
 
 # Methods attempted:
 - Collections::filter
